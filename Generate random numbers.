@@ -1,0 +1,4 @@
+import random
+a=int(input("enter the no:"))
+b=int(input("enter the no:"))
+print(random.randint(a,b))
