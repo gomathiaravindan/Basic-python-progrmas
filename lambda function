@@ -1,0 +1,4 @@
+n=int(input("enter the no:"))
+r=list(map(lambda x: 2 ** x,range(n)))
+for i in range(n):
+     print(r[i])
