@@ -1,0 +1,4 @@
+a=int(input("input the divisor:"))
+lst=[78,10,98,67,34,21,56]
+res=list(filter(lambda x:x%a==0,lst))
+print(res)
