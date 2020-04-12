@@ -1,0 +1,2 @@
+a=int(input("input the no:"))
+print(bin(a),oct(a),hex(a))
